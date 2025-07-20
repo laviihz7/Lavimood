@@ -28,3 +28,7 @@
     ]
   }
 }
+
+/storage/emulated/0/Download/Lavimood_React_Proyecto/src/App.js
+/storage/emulated/0/Download/Lavimood_React_Proyecto/package.json
+/storage/emulated/0/Download/Lavimood_React_Proyecto/src/index.js
